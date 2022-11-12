@@ -1,4 +1,4 @@
-module github.com/gokrazy/fbstatus
+module github.com/jshield/fbstatus
 
 go 1.18
 
